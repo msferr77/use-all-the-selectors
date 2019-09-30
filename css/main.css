@@ -26,7 +26,7 @@ nav ul {
   color: #93a1a1;
 }
 
-.dfn > strong {
+#facts + .dfn > strong {
   color: #fff;
 }
 
